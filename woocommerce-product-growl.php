@@ -124,7 +124,7 @@
 	**/
 	function woocommerce_product_growl_init()
 	{
-    	$product_growl = new WooCommerceProductGrowl();
+    		$product_growl = new WooCommerceProductGrowl();
 		$product_growl->init();
 
 		if (is_product()) {
