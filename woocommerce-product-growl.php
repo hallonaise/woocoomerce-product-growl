@@ -116,7 +116,7 @@
 	}
 
 	/**
-	*	Initialing "working horse"
+	*	Initializing "working horse"
 	*	Creating visitors, saving views and adding js + css (if on product page)
 	*
 	*	@author Michal Kwiatkowski <michal@hallonaise.se>
