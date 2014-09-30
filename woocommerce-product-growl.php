@@ -146,7 +146,7 @@
 	}
 
 	/**
-	*	Function used by AJAX for get getting number of views by product id
+	*	Function used by AJAX for getting number of views by product id
 	*	
 	*	@author Michal Kwiatkowski <michal@hallonaise.se>
 	*	@return string json-string for javascript
